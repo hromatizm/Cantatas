@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_cantata_card.xml" value="0.3374000841396719" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="app/src/main/res/layout/listitem.xml" value="0.1947463768115942" />
+        <entry key="app/src/main/res/layout/listview_item.xml" value="0.264" />
+        <entry key="app/src/main/res/menu/card.xml" value="0.264" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.3374000841396719" />
+        <entry key="app/src/main/res/menu/sort_popup.xml" value="0.3428815733219325" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1395" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

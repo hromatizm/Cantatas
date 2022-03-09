@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu.up"
+        android:icon="@drawable/ic_baseline_arrow_upward_24"
+        android:title="Ascending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu.down"
+        android:icon="@drawable/ic_baseline_arrow_downward_24"
+        android:title="Descending"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu.sort.style"
+        android:icon="@drawable/ic_baseline_sort_24"
+        android:title="Sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/by.bwv"
+                android:onClick="chooseSortStyle"
+                android:title="Sort by BWV" />
+            <item
+                android:id="@+id/by.date"
+                android:onClick="chooseSortStyle"
+                android:title="Sort by date" />
+            <item
+                android:id="@+id/by.name"
+                android:onClick="chooseSortStyle"
+                android:title="Sort by name" />
+            <item
+                android:id="@+id/by.rating"
+                android:onClick="chooseSortStyle"
+                android:title="Sort by rating" />
+        </menu>
+    </item>
+</menu>

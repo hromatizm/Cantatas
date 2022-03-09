@@ -1,0 +1,220 @@
+1 Wie schön leuchtet der Morgenstern ( 1725 ) Occasion: Annunciation
+2 Ach Gott, vom Himmel sieh darein ( 1724 ) Occasion: Trinity 2
+3 Ach Gott, wie manches Herzeleid ( 1725 ) Occasion: Epiphany 2
+4 Christ lag in Todes Banden ( 1707-1708 ) Occasion: Easter
+5 Wo soll ich fliehen hin ( 1724 ) Occasion: Trinity 19
+6 Bleib bei uns, denn es will Abend werden ( 1725 ) Occasion: Easter Monday
+7 Christ unser Herr zum Jordan kam ( 1724 ) Occasion: St John
+8 Liebster Gott, wenn werd ich sterben ( ?1724 ) Occasion: Trinity 16
+9 Es ist da Heil uns kommen her ( 1732-1735 ) Occasion: Trinity 6
+10 Meine Seel erhebt den Herren ( 1724 ) Occasion: Visitation
+11 Lobet Gott in seinen Reichen
+12 Weinen, Klagen, Sorgen, Zagen ( 1714 ) Occasion: Easter 3 Text by: S. Franck
+13 Meine Seufzer, meine Tränen ( 1726 ) Occasion: Epiphany 2 Text by: G.C.Lehms
+14 Wär Gott nicht mit uns diese Zeit ( 1735 ) Occasion: Epiphany 4
+15 Denn du wirst meine Seele nicht in der Hölle lassen
+16 Herr Gott, dich loben wir ( 1726 ) Occasion: New Year Text by: Lehms
+17 Wer Dank opfert, der reiset mich ( 1726 ) Occasion: Trinity 14
+18 Gleichwie der Regen und Schnee vom Himmel fällt ( c1714 ) Occasion: Sexagesima Text by: E. Neumeister
+19 Es erhub sich ein Streit ( ? ) Occasion: St. Michael
+20 O Ewigkeit, du Donnerwort ( 1724 ) Occasion: Trinity 1
+21 Ich hatte viel Bekümmernis ( 1714 ) ( ?Franck ) Occasion: Trinity 3
+22 Jesus nahm zu sich die Zwölfe ( 1723 ) Occasion: Quinquagesima
+23 Du wahrer Gott und Davids Sohn ( 1723 ) Occasion: Quinquagesima
+24 Ein ungefärbt Gemüt ( 1723 ) Occasion: Trinity 4 Text by: Neumeister
+25 Es ist nichts Gesundes an meinem Leibe ( 1723 ) Occasion: Trinity 14
+26 Ach wie flüchtig, ach wie nichtig ( 1724 ) Occasion: Trinity 24
+27 Wer weiß, wie nahe mir mein Ende ( 1726 ) Occasion: Trinity 16
+28 Gottlob! nun geht das Jahr zu Ende ( 1725 ) Occasion: Sunday after Christmas Text by: Neumeister
+28/2a Sei Lob und Preis mit Ehren
+29 Wir danken dir, Gott wir danken dir ( 1731 ) Occasion: council election
+30 Freue dich, erlöste Schar ( 1738-1739 ) Occasion: St John Text by: (?Picander)
+30a Angenehmes Wiederau, freue dich in deinen Auen
+31 Der Himmel lacht, Die Erde jubilieret
+32 Liebster Jesu, mein Verlangen ( 1726 ) Occasion: Epiphany I Text by: (Lehms)
+33 Allein zu dir, Herr Jesu Christ ( 1724 ) Occasion: Trinity 13
+34 O ewiges Feuer, o Ursprung der Liebe ( c.1742 )
+34a O ewiges Feuer, o Ursprung der Liebe ( 1726 ) Occasion: Wedding
+35 Geist und Seele wird verwirret ( 1726 ) Occasion: Trinity 12 Text by: (Lehms)
+36(1) Schwingt freudig euch empor (ältere Fassung) ( 1731 ) Occasion: Advent I Text by: (?Picander)
+36(2) Schwingt freudig euch empor (endgültige Fassung) ( 1731 ) Occasion: Advent I Text by: (?Picander)
+36a Steigt freudig in die Luft
+36b Die Freude reget sich
+36c Schwingt freudig euch empor
+37 Wer da gläubet und getauft wird ( 1724 ) Occasion: Ascension
+38 Aus tiefer Not schrei ich zu dir ( 1724 ) Occasion: Trinity 21
+39 Brich dem Hungrigen dein Brot ( 1726 ) Occasion: Trinity I
+40 Darzu ist erschienen der Sohn Gottes ( 1723 ) Occasion: 2nd day of Christmas
+41 Jesu nun sei gepreiset ( 1725 ) Occasion: New Year
+42 Am Abend aber desselbigen Sabbats ( 1725 ) Occasion: Easter 1
+43 Gott fähret auf mit Jauchzen ( 1726 ) Occasion: Ascension
+44 Sie werden euch in den Bann tun ( 1724 ) Occasion: Sunday after Ascension
+45 Es ist dir gesagt, Mensch, was gut ist ( 1726 ) Occasion: Trinity 8
+46 Schauet doch und sehet, ob irgend ein Schmerz sei ( 1723 ) Occasion: Trinity 10
+47 Wer sich selbst erhöhet, der soll erniedriget werden ( 1726 ) Occasion: Trinity 17 Text by: (J. F. Helbig)
+48 Ich elender Mensch, wer wird mich erlösen ( 1723 ) Occasion: Trinity 19
+49 Ich geh und suche mit Verlangen ( 1726 ) Occasion: Trinity 20
+50 Nun ist das Heil und die Kraft
+51 Jauchzet Gott in allen Landen ( 1730 ) Occasion: Trinity 15
+52 Falsche Welt, dir trau ich nicht ( 1726 ) Occasion: Trinity 23
+53 Schlag doch, gewünschte Stunde
+54 Widerstehe doch der Sünde ( 1714 ) Occasion: ?Lent 3 Text by: Lehms
+55 Ich armer Mensch, ich Sündenknecht ( 1726 ) Occasion: Trinity 22
+56 Ich will den Kreuzstab gerne tragen ( 1726 ) Occasion: Trinity 19
+57 Selig ist der Mann ( 1725 ) Occasion: 2nd day of Christmas Text by: Lehms
+58 Ach Gott, wie manches Herzeleid ( 1727 ) Occasion: Sunday after New Year
+59 Wer mich liebet, der wird mein Wort halten ( 1723-1724 ) Occasion: Whitsunday Text by: Neumeister
+60 O Ewigkeit, du Donnerwort ( 1723 ) Occasion: Trinity 24
+61 Nun komm, der Heiden Heiland ( 1714 ) Occasion: Advent 1 Text by: Neumeister
+62 Nun komm, der Heiden Heiland ( 1724 ) Occasion: Advent 1
+63 Christen, ätzet diesen Tag ( 1713-? ) Occasion: Christmas
+64 Sehet, welch eine Liebe hat uns der Vater erzeiget ( 1723 ) Occasion: 3rd day of Christmas Text by: Knauer
+65 Sie werden aus Saba alle kommen ( 1724 ) Occasion: Epiphany
+66 Erfreut euch, ihr Herzen ( 1724 ) Occasion: Easter Monday
+66a Der Himmel dacht auf Anhalts Ruhm und Glück
+67 Halt im Gedächtnis Jesum Christ ( 1724 ) Occasion: Easter 1
+68 Also hat Gott die Welt geliebt ( 1725 ) Occasion: Whit Monday Text by: Ziegler
+69 Lobe den Herrn, meine Seele ( 1743-1748 ) Occasion: Council election
+69a Lobe den Herrn, meine Seele ( 1723 ) Occasion: Trinity 12
+70 Wachet! betet! betet! wachet ( 1723 ) Occasion: Trinity 26 Text by: Franck
+70a Wachet! betet! betet! wachet ( 1716 ) Occasion: Advent II Text by: Franck
+71 Gott ist mein König ( 1708 ) Occasion: council election
+72 Alles nur nach Gottes Willen ( 1726 ) Occasion: Epiphany 3 Text by: Franck
+73 Herr, wie du willt, so schicks mit mir ( 1724 ) Occasion: Epiphany 3
+74 Wer mich liebet, der wird mein Wort halten ( 1725 ) Occasion: Whitsunday Text by: Ziegler
+75 Die Elenden sollen essen ( 1723 ) Occasion: Trinity 1
+76 Die Himmel erzählen die Ehre Gottes ( 1723 ) Occasion: Trinity 2
+77 Du sollt Gott, deinen Herren, lieben ( 1723 ) Occasion: Trinity 13 Text by: Knauer
+78 Jesu, der du meine Seele ( 1724 ) Text by: Trinity 14
+79 Gott der Herr ist Sonn und Schild ( 1725 ) Occasion: Reformation festival
+80 Ein feste Burg ist unser Gott ( 1727-1731 ) Occasion: Reformation Festival Text by: Franck
+80a Alles, was von Gott geboren ( 1715 ) Occasion: Lent III Text by: Franck
+80b Ein Feste Burg ist unser Gott Text by: Franck
+81 Jesus schläft, was soll ich hoffen? ( 1724 ) Occasion: Epiphany 4
+82 Ich habe genung ( 1727 ) Occasion: Purification
+83 Erfreute Zeit im neuen Bunde ( 1724 ) Occasion: Purification
+84 Ich bin vergnügt mit meinem Glücke ( 1727 ) Occasion: Septuagesima Text by: ?Picander
+85 Ich bin ein guter Hirt ( 1725 ) Occasion: Easter 2
+86 Wahrlich, wahrlich, ich sage euch ( 1724 ) Occasion: Easter 5
+87 Bisher habt ihr nichts gebeten in meinem Namen ( 1725 ) Occasion: Easter 5 Text by: Ziegler
+88 Siehe, ich will viel Fischer aussenden ( 1726 ) Occasion: Trinity 5
+89 Was soll ich aus dir machen, Ephraim? ( 1723 ) Occasion: Trinity 22
+90 Es reißet euch ein schrecklich Ende ( 1723 ) Occasion: Trinity 25
+91 Gelobet seist du, Jesu Christ ( 1724 ) Occasion: Christmas
+92 Ich hab in Gottes Herz und Sinn ( 1725 ) Occasion: Septuagesima
+93 Wer nur den lieben Gou läßt walten ( 1724 ) Occasion: Trinity 5
+94 Was frag ich nach der Welt ( 1724 ) Occasion: Trinity 9
+95 Christus, der ist mein Leben ( 1723 ) Occasion: Trinity 16
+96 Herr Christ, der einge Gottessohn ( 1724 ) Occasion: Trinity 18
+97 In allen meinen Taten ( 1734-? )
+98 Was Gott tut, das ist wohlgetan ( 1726 ) Occasion: Trinity 21
+99 Was Gott tut, das ist wohlgetan ( 1724 ) Occasion: Trinity 15
+100 Was Gott tut, das ist wohlgetan ( c.1735? )
+101 Nimm von uns, Herr, du treuer Gott ( 1724 ) Occasion: Trinity 10
+102 Herr, deine Augen sehen nach dem Glauben ( 1726 ) Occasion: Trinity 10
+103 Ihr werdet weinen und heulen ( 1726 ) Occasion: Trinity 10 Text by: Ziegler
+104 Du Hirte Israel, höre ( 1724 ) Occasion: Easter 2
+105 Herr, gehe nicht ins Gericht ( 1723 ) Occasion: Trinity 9
+106 Gottes Zeit ist die allerbeste Zeit ( 1708 ) Occasion: funeral Text by: ?Eilmar
+107 Was willst du dich betrüben ( 1724 ) Occasion: Trinity 7
+108 Es ist euch gut, daß ich. hingehe ( 1725 ) Occasion: Easter 4 Text by: Ziegler
+109 Ich glaube, lieber Herr, hilf meinem Unglauben ( 1723 ) Occasion: Trinity 21
+110 Unser Mund sei voll Lachens ( 1725 ) Occasion: Christmas Text by: Lehms
+111 Was mein Gott will, das gscheh allzeit ( 1725 ) Occasion: Epiphany 3
+112 Der Herr ist mein getreuer Hirt ( 1731 ) Occasion: Easter 2
+113 Herr Jesu Christ, du höchstes Gut ( 1724 ) Occasion: Trinity 11
+114 Ach, lieben Christen, seid getrost ( 1724 ) Occasion: Trinity 17
+115 Mache dich, mein Geist, bereit ( 1724 ) Occasion: Trinity 22
+116 Du Friedefürst, Herr Jesu Christ ( 1724 ) Occasion: Trinity 25
+117 Sei Lob und Ehr dem höchsten Gut ( 1728-1731 ? ) 118 O Jesu Christ, mein's Lebens Licht
+119 Preise, Jerusalem, den Herrn ( 1723 ) Occasion: council election
+120 Gott, man lobet dich in der Stille ( 1728-1729 ) Occasion: council election
+120a Herr Gott, Beherrscher aller Dinge ( c.1729 ) Occasion: wedding
+120b Gott, man lobet dich in der Stille Text by: Picander
+121 Christum wir sollen loben schon ( 1724 ) Occasion: 2nd day of Christmas
+122 Das neugeborne Kindelein ( 1724 ) Occasion: Sunday after Christmas
+123 Liebster Immanuel, Herzog der Frommen ( 1725 ) Occasion: Epiphany
+124 Meinen Jesum laß ich nicht ( 1725 ) Occasion: Epiphany 1
+125 Mit Fried und Freud ich fahr dahin ( 1725 ) Occasion: Purification
+126 Erhalt uns, Herr, bei deinem Wort ( 1725 ) Occasion: Sexagesima
+127 Herr Jesu Christ, wahr' Mensch und Gott ( 1725 ) Occasion: Quinquagesima
+128 Auf Christi Himmelfahrt allein ( 1725 ) Occasion: Ascension Text by: Ziegler
+129 Gelobet sei der Herr, mein Gott ( 1726 ) Occasion: Trinity
+130 Herr Gott, dich loben alle wir ( 1724 ) Occasion: St. Michael
+131 Aus der Tiefen rufe ich, Herr, zu dir ( 1707 ? )
+132 Bereitet die Wege, bereitet die Bahn ( 1715 ) Occasion: Advent 4 Text by: Franck
+133 Ich freue mich in dir ( 1724 ) Occasion: 3rd day of Christmas
+134 Ein Herz, das seinen Jesum lebend weiß ( 1724 ) Occasion: Easter Tuesday Text by: Weiss
+134a Die Zeit, die Tag und Jahre macht
+135 Ach Herr, mich armen Sünder ( 1724 ) Occasion: Trinity 3
+136 Erforsche mich, Gott, und erfahre mein Herz ( 1723 ) Occasion: Trinity 8
+137 Lobe den Herren, den mächtigen König der Ehren ( 1725 ) Occasion: Trinity 12
+138 Warum betrübst du dich, mein Herz? ( 1723 ) Occasion: Trinity 15
+139 Wohl dem, der sich auf seinen Gott ( 1724 ) Occasion: Trinity 23
+140 Wachet auf, ruft uns die Stimme ( 1731 ) Occasion: Trinity 27
+141 Das ist je gewißlich wahr (spurious) Occasion: Advent III
+142 Uns ist ein Kind geboren (spurious) Occasion: Christmas
+143 Lobe den Herrn, meine Seele ( 1708-1714 ) Occasion: New Year
+144 Nimm, was dein ist, und gehe hin ( 1724 ) Occasion: Septuagesima
+145 Ich lebe, mein Herze, zu deinem Ergötzen ( c.1729 ) Occasion: Easter Tuesday Text by: Picander
+146 Wir müssen durch viel Trübsal ( 1726-1728 ) Occasion: Easter 3
+147 Herz und Mund und Tat und Leben ( 1723 ) Occasion: Visitation Text by: Franck
+147a Herz und Mund und Tat und Leben ( 1716 ) Occasion: Advent IV Text by: Franck
+148 Bringet dem Herrn Ehre seines Namens ( 1723 ) Occasion: Trinity 17 Text by: Picander
+149 Man singet mit Freuden vom Sieg ( 1728-1729 ) Occasion: St. Michael Text by: Picander
+150 Nach dir, Herr, verlanget mich ( b.1708 )
+151 Süßer Trost, mein Jesus kömmt ( 1725 ) Occasion: 3rd day of Christmas Text by: Lehms
+152 Tritt auf die Glaubensbahn ( 1714 ) Occasion: Sunday after Christmas Text by: Franck
+153 Schau, lieber Gott, wie meine Feind ( 1724 ) Occasion: Sunday after New Year
+154 Mein liebster Jesus ist verloren ( 1724 ) Occasion: Epiphany 1
+155 Mein Gott, wie lang, ach lange ( 1716 ) Occasion: Epiphany 2 Text by: Franck
+156 Ich steh mit einem Fuß im Grabe ( 1729 ) Occasion: Epiphany 3 Text by: Picander
+157 Ich lasse dich nicht, du segnest mich denn ( 1727 ) Occasion: funeral Text by: Picander
+158 Der Friede sei mit dir ( a.1723 ) Occasion: Easter Tuesday
+159 Sehet, wir gehn hinauf gen Jerusalem ( 1729-? ) Occasion: Quinquagesima Text by: Picander
+160 Ich weiß, daß mein Erlöser lebt Occasion: Easter
+161 Komm, du süße Todesstunde ( 1716 ) Occasion: Trinity 16 Text by: Franck
+162 Ach! ich sehe, itzt, da ich zur Hochzeit gehe ( 1716 ) Occasion: Trinity 20 Text by: Franck
+163 Nur jedem das Seine ( 1715 ) Occasion: Trinity 23 Text by: Franck
+164 Ihr, die ihr euch von Christo nennet ( 1725 ) Occasion: Trinity 13 Text by: Franck
+165 O heilges Geist- und Wasserbad ( 1715 ) Occasion: Trinity Text by: Franck
+166 Wo gehest du hin? ( 1724 ) Occasion: Easter 4
+167 Ihr Menschen, rühmet Gottes Liebe ( 1723 ) Occasion: St. John
+168 Tue Rechnung! Donnerwort ( 1725 ) Occasion: Trinity 9 Text by: Franck
+169 Gott soll allein mein Herze haben ( 1726 ) Occasion: Trinity 18
+170 Vergnügte Ruh, beliebte Seelenlust ( 1726 ) Occasion: Trinity 6 Text by: Lehms
+171 Gott, wie dein Name, so ist auch dein Ruhm ( 1729 ) Occasion: New Year Text by: Picander
+172 Erschallet ihr Lieder, erklinget, ihr Saiten ( 1714 ) Occasion: Whitsunday Text by: ?Franck
+173 Erhöhtes Fleisch und Blut ( 1724 ) Occasion: Whit Monday
+173a Durchlauchtster Leopold
+174 Ich liebe den Höchsten von ganzem Gemüte ( 1729 ) Occasion: Whit Monday Text by: Picander
+175 Er rufet seinen Schafen mit Namen ( 1725 ) Occasion: Whit Tuesday Text by: Ziegler
+176 Es ist ein trotzig und verzagt Ding ( 1725 ) Occasion: Trinity Text by: Ziegler
+177 Ich ruf zu dir Herr Jesu Christ ( 1725 ) Occasion: Trinity 4
+178 Wo Gott der Herr nicht bei uns hält ( 1724 ) Occasion: Trinity 8
+179 Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei ( 1723 ) Occasion: Trinity 11
+180 Schmücke dich, o liebe Seele ( 1724 ) Occasion: Trinity 20
+181 Leichtgesinnte Flattergeister ( 1724 ) Occasion: Sexagesima
+182 Himmelskönig, sei willkommen ( 1714 ) Occasion: Palm Sunday Text by: ?Franck
+183 Sie werden euch in den Bann tun ( 1725 ) Occasion: Sunday after Ascension Text by: Ziegler
+184 Erwünschtes Freudenlicht ( 1724 ) Occasion: Whit Tuesday
+185 Barmherziges Herze der ewigen Liebe ( 1715 ) Occasion: Trinity 4 Text by: Franck
+186 Ärgre dich, o Seele, nicht ( 1723 ) Occasion: Trinity 7 Text by: Franck
+186a Ärgre dich, o Seele, nicht ( 1716 ) Occasion: Trinity 7 Advent 3 Text by: Franck, 
+187 Es wartet alles auf dich ( 1726 ) Occasion: Trinity 7
+188 Ich habe meine Zuversicht ( 1728-? ) Occasion: Trinity 21 Text by: Picander
+189 Meine Seele rühmt und preist Occasion: ? Visitation
+190 Singet dem Herrn ein neues Lied! ( 1724 ) (incomplete) Occasion: New Year
+190a Singet dem Herrn ein neues Lied! ( 1730 ) Occasion: anniversary
+191 Gloria in excelsis Deo ( a.1739 ) Occasion: Christmas
+192 Nun danket alle Got ( 1730 )
+193 Ihr Tore zu Zion ( c.1727 )  Occasion: council election
+193a Ihr Häuser des Himmels
+194 Höchsterwünschtes Freudenfest ( 1723 ) Occasion: dedication
+195 Dem Gerechten muß das Licht ( c.1742 ) Occasion: wedding
+196 Der Herr denket an uns ( 1708-? ) Occasion: wedding Text by: Psalm 115
+197 Gott ist unsre Zuversicht ( 1736-1737 ) Occasion: wedding
+197a Ehre sei Gott in der Höhe ( c. 1729 ) (incomplete) Occasion: Christmas Text by: Picander
+198 Laß, Fürstin, laß noch einen Strahl
+199 Mein Herze schwimmt im Blut ( 1714 ) Occasion: Trinity 11 Text by: Lehms
+200 Bekennen will ich seinen Namen

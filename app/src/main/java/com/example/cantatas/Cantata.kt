@@ -4,6 +4,7 @@ import android.R.attr.phoneNumber
 import android.annotation.SuppressLint
 import android.os.Parcel
 import android.os.Parcelable
+import java.io.Serializable
 import kotlin.Comparator
 
 
@@ -16,7 +17,7 @@ data class Cantata(
     val textBy: String = "",
     var id: Int,
     var rating: Float = 0f
-) : Comparable<Cantata>, Parcelable {
+) : Comparable<Cantata>, Serializable {
 
     private val bwvInt = bwv
         .replace("[(/].+".toRegex(), "")
@@ -99,19 +100,19 @@ data class Cantata(
         return other.bwvInt.let { bwvInt.compareTo(it) }
     }
 
-    override fun writeToParcel(parcel: Parcel, flags: Int) {
-        parcel.writeString(bwv)
-        parcel.writeString(name)
-        parcel.writeString(date)
-        parcel.writeString(occasion)
-        parcel.writeString(textBy)
-        parcel.writeInt(id)
-        parcel.writeFloat(rating)
-    }
-
-    override fun describeContents(): Int {
-        return 0
-    }
+//    override fun writeToParcel(parcel: Parcel, flags: Int) {
+//        parcel.writeString(bwv)
+//        parcel.writeString(name)
+//        parcel.writeString(date)
+//        parcel.writeString(occasion)
+//        parcel.writeString(textBy)
+//        parcel.writeInt(id)
+//        parcel.writeFloat(rating)
+//    }
+//
+//    override fun describeContents(): Int {
+//        return 0
+//    }
 
 
 }

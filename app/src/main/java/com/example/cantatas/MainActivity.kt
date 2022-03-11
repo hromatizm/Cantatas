@@ -1,19 +1,14 @@
 package com.example.cantatas
 
-import android.app.Activity
-import android.content.ClipData
 import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import androidx.appcompat.widget.PopupMenu
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import java.io.InputStream
-
 
 class MainActivity : AppCompatActivity(), RecyclerCantataAdapter.OnCantataClickListener {
 
@@ -21,13 +16,14 @@ class MainActivity : AppCompatActivity(), RecyclerCantataAdapter.OnCantataClickL
         // Ключи для передачи данных между активностями
         const val CANTATA = "CANTATA"
         const val RATING_REQUEST = 777
+
+        // Ключ для сохранения состояния:
+        const val SAVE_STATE = "SAVE_STATE"
     }
 
     lateinit var list: RecyclerView
     lateinit var adapter: RecyclerCantataAdapter
-    lateinit var popupMenu: PopupMenu
-    lateinit var sortStyleMenuItem: View
-    val cantatas = ArrayList<Cantata>()
+    var cantatas = ArrayList<Cantata>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -78,7 +74,10 @@ class MainActivity : AppCompatActivity(), RecyclerCantataAdapter.OnCantataClickL
             println(cantata.cleanDate)
             cantatas.add(cantata)
         }
-
+        savedInstanceState?.run {
+            val savedState = getSerializable(SAVE_STATE)
+            cantatas = savedState as ArrayList<Cantata>
+        }
         adapter = RecyclerCantataAdapter(cantatas)
         val layoutManager = LinearLayoutManager(this)
         adapter.setOnCantataClickListener(this)
@@ -101,7 +100,7 @@ class MainActivity : AppCompatActivity(), RecyclerCantataAdapter.OnCantataClickL
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         if (requestCode == RATING_REQUEST)
             data?.run {
-                val cantata = getParcelableExtra<Cantata>(CANTATA) as Cantata
+                val cantata = getSerializableExtra(CANTATA) as Cantata
                 val changedCantata = cantatas.first { it.id == cantata.id }
                 changedCantata.rating = cantata.rating
                 adapter.notifyDataSetChanged()
@@ -144,5 +143,11 @@ class MainActivity : AppCompatActivity(), RecyclerCantataAdapter.OnCantataClickL
                 Cantata.activeComparator = Cantata.byRating
             }
         }
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        outState.putSerializable(SAVE_STATE, cantatas)
+        super.onSaveInstanceState(outState)
+
     }
 }

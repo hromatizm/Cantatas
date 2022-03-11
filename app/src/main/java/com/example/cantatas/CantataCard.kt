@@ -21,7 +21,7 @@ class CantataCard : AppCompatActivity() {
         mCantataWebView = findViewById(R.id.cantata_web)
         mCantataRating = findViewById(R.id.rating)
 
-        mCantata = intent.getParcelableExtra<Cantata>(MainActivity.CANTATA) as Cantata
+        mCantata = intent.getSerializableExtra(MainActivity.CANTATA) as Cantata
         mCantataRating.rating = mCantata.rating
 
 // Чтобы данные из интернета отображались не в стороннем браузере:

@@ -29,6 +29,5 @@ class CantataHolder(view: View, private val listener: RecyclerCantataAdapter.OnC
         occasion.text = cantata.occasion
         textBy.text = cantata.textBy
         rating.rating = cantata.rating
-
     }
 }

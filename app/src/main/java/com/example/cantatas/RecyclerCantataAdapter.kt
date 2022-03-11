@@ -17,7 +17,7 @@ class RecyclerCantataAdapter(
         val context = parent.context
         val inflater = LayoutInflater.from(context)
         val view = inflater.inflate(R.layout.listview_item, parent, false)
-        return listener.let { CantataHolder(view, it!!) }
+        return CantataHolder(view, listener!!)
     }
 
     override fun onBindViewHolder(holder: CantataHolder, position: Int) {
